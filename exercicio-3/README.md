@@ -1,0 +1,11 @@
+3. Escreva as seguintes classes:
+- Classe Universidade
+- - Atributos: nome, cidade, estado (todos os atributos do tipo String)
+- - Método: exibeDados (que exibirá os atributos de objetos do tipo Universidade)
+- Classe Aluno
+- - Atributos: nome, curso (atributos do tipo String)
+- - Método: exibeDados (no qual serão exibidos os atributos de Aluno)
+- Classe TesteClasses
+- - Criar uma instância/objeto das classes Universidade e Aluno, respectivamente.
+- - Atribuir valores para os atributos das classes Universidade e Aluno.
+- - Executar os métodos das classes Universidade e Aluno, respectivamente.
